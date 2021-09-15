@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-14T17:33:57 IST" name="Default suite" finished-at="2021-09-14T17:36:20 IST" duration-ms="143537">
+    <groups>
+    </groups>
+    <test started-at="2021-09-14T17:33:57 IST" name="Default test" finished-at="2021-09-14T17:36:20 IST" duration-ms="143537">
+      <class name="kedar.Admin.CreateCourseTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:kedar.Admin.CreateCourseTest@505fc5a4]" started-at="2021-09-14T17:33:57 IST" name="launchBrowser" finished-at="2021-09-14T17:34:07 IST" duration-ms="10476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkLogin()[pri:1, instance:kedar.Admin.CreateCourseTest@505fc5a4]" started-at="2021-09-14T17:34:07 IST" name="checkLogin" finished-at="2021-09-14T17:34:14 IST" duration-ms="7085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method signature="createCourse()[pri:2, instance:kedar.Admin.CreateCourseTest@505fc5a4]" started-at="2021-09-14T17:34:14 IST" name="createCourse" finished-at="2021-09-14T17:36:20 IST" duration-ms="125815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCourse -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:kedar.Admin.CreateCourseTest@505fc5a4]" started-at="2021-09-14T17:36:20 IST" name="closeBrowser" finished-at="2021-09-14T17:36:20 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- kedar.Admin.CreateCourseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
